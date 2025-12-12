@@ -32,6 +32,7 @@ We hypothesize that countries with higher GDP per capita tend to have lower infa
 - Nagendra241 – Lead analyst and repository maintainer
 - zulqarnainali555 - Data Visualisation Specialist
 - Noorraayyy - Documentation & report writer
+- Qasim24177162 - code reviewer
 
 ## 🤝 Collaboration Guidelines
 
