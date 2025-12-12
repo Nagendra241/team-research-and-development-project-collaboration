@@ -25,13 +25,12 @@ We hypothesize that countries with higher GDP per capita tend to have lower infa
 ## 📈 Preliminary Findings
 
 - Strong negative correlation observed in initial plots.
-- Some outliers (e.g., oil-rich countries with high GDP but poor health outcomes).
 - Regional disparities suggest GDP alone may not explain infant mortality.
 
 ## 👥 Contributors
 
 - Nagendra241 – Lead analyst and repository maintainer
-- 
+- zulqarnainali555 - Data Visualisation Specialist
 
 ## 🤝 Collaboration Guidelines
 
